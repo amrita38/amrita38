@@ -1,4 +1,4 @@
-<!-- 🔥 CUSTOM GITHUB PROFILE README -->
+<!-- 🌸 AMRITA SHAW GITHUB PROFILE README -->
 
 <p align="center">
 <img
@@ -18,7 +18,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&dur
 <br><br>
 
 <img
-src="https://komarev.com/ghpvc/?username=yourgithubusername&label=PROFILE+VIEWS&color=ff4d4d&style=for-the-badge"
+src="https://komarev.com/ghpvc/?username=amritashaw&label=PROFILE+VIEWS&color=ff4d4d&style=for-the-badge"
 />
 
 </div>
@@ -60,7 +60,7 @@ src="https://skillicons.dev/icons?i=python,java,html,css,vscode,github"
 # 🚀 PROJECTS
 
 ### 🌐 Portfolio Website
-Personal responsive portfolio website using HTML & CSS
+Responsive portfolio website using HTML & CSS
 
 ### 🧮 Calculator Project
 Simple calculator made using Python
@@ -70,18 +70,18 @@ Task management mini project
 
 ---
 
-# 📈 GITHUB STATS
+# 📊 GITHUB STATS
 
 <div align="center">
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats.vercel.app/api?username=amritashaw&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
 />
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritashaw&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
 />
 
 </div>
@@ -93,7 +93,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubus
 <div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight&hide_border=true"
+src="https://github-readme-streak-stats.herokuapp.com?user=amritashaw&theme=tokyonight&hide_border=true&border_radius=10"
 />
 
 </div>
@@ -122,12 +122,8 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&t
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yourgithubusername">
+<a href="https://github.com/amritashaw">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/91XXXXXXXXXX">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </div>
@@ -138,8 +134,8 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&t
 
 🎵 I enjoy listening to music  
 💃 I love dancing  
-🌙 I like coding at night  
-💡 I believe small progress every day matters
+🌙 I love coding at night  
+💡 Small progress every day matters
 
 ---
 
