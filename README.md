@@ -1,25 +1,18 @@
 <!-- 🌸 AMRITA SHAW GITHUB PROFILE README -->
 
 <p align="center">
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=280&text=AMRITA%20SHAW&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:ff6b6b,50:ff8e53,100:ff4d4d"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=AMRITA%20SHAW&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:ff6b6b,50:ff8e53,100:ff4d4d"/>
 </p>
 
 <div align="center">
 
 # 👋 Hi, I'm Amrita Shaw
 
-<img
-src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2200&pause=700&color=FF6B6B&center=true&vCenter=true&width=900&lines=💻+CSE+Student;🌐+Frontend+Developer;🐍+Learning+Python+%26+Java;🚀+Building+Projects+Step+by+Step;⚡+Future+Software+Engineer"
-/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2200&pause=700&color=FF6B6B&center=true&vCenter=true&width=900&lines=💻+CSE+Student;🌐+Frontend+Developer;🐍+Learning+Python+%26+Java;🚀+Building+Projects+Step+by+Step;⚡+Future+Software+Engineer"/>
 
 <br><br>
 
-<img
-src="https://komarev.com/ghpvc/?username=amritashaw&label=PROFILE+VIEWS&color=ff4d4d&style=for-the-badge"
-/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=ff4d4d&style=for-the-badge"/>
 
 </div>
 
@@ -30,7 +23,7 @@ src="https://komarev.com/ghpvc/?username=amritashaw&label=PROFILE+VIEWS&color=ff
 🎓 Computer Science Engineering Student  
 💻 Interested in Web Development and Programming  
 🌱 Currently learning Python, Java, HTML & CSS  
-🚀 Building projects to improve my skills  
+🚀 Building projects to improve my coding skills  
 🎯 Goal: Become a successful Software Engineer
 
 ---
@@ -39,9 +32,7 @@ src="https://komarev.com/ghpvc/?username=amritashaw&label=PROFILE+VIEWS&color=ff
 
 <div align="center">
 
-<img
-src="https://skillicons.dev/icons?i=python,java,html,css,vscode,github"
-/>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,vscode,github"/>
 
 </div>
 
@@ -70,19 +61,13 @@ Task management mini project
 
 ---
 
-# 📊 GITHUB STATS
+# 📊 GITHUB STATUS
 
 <div align="center">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=amritashaw&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
-/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&border_radius=12&include_all_commits=true&count_private=true"/>
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritashaw&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
-/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&border_radius=12"/>
 
 </div>
 
@@ -92,9 +77,27 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritashaw&l
 
 <div align="center">
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com?user=amritashaw&theme=tokyonight&hide_border=true&border_radius=10"
-/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&border_radius=12"/>
+
+</div>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true"/>
 
 </div>
 
@@ -103,10 +106,10 @@ src="https://github-readme-streak-stats.herokuapp.com?user=amritashaw&theme=toky
 # 🏆 ACHIEVEMENTS
 
 🏅 Consistent Learner  
-🏅 Beginner Frontend Developer  
+🏅 Frontend Development Beginner  
 🏅 Exploring Programming Daily  
-🏅 Improving Communication Skills  
-🏅 Building Confidence Through Projects
+🏅 Building Projects Regularly  
+🏅 Improving Communication Skills
 
 ---
 
@@ -122,7 +125,7 @@ src="https://github-readme-streak-stats.herokuapp.com?user=amritashaw&theme=toky
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/amritashaw">
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -134,7 +137,7 @@ src="https://github-readme-streak-stats.herokuapp.com?user=amritashaw&theme=toky
 
 🎵 I enjoy listening to music  
 💃 I love dancing  
-🌙 I love coding at night  
+🌙 I enjoy coding at night  
 💡 Small progress every day matters
 
 ---
@@ -143,10 +146,7 @@ src="https://github-readme-streak-stats.herokuapp.com?user=amritashaw&theme=toky
 
 <div align="center">
 
-<img
-width="100%"
-src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-/>
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -160,9 +160,6 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 
 <br><br>
 
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff6b6b,100:ff8e53"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff6b6b,100:ff8e53"/>
 
 </div>
