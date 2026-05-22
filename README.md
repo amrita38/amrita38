@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=ff4d4d&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=amrita38&label=PROFILE+VIEWS&color=ff4d4d&style=for-the-badge"/>
 
 </div>
 
@@ -65,9 +65,9 @@ Task management mini project
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amrita38&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrita38&layout=compact&theme=radical&hide_border=true&border_radius=15"/>
 
 </div>
 
@@ -77,7 +77,7 @@ Task management mini project
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=highcontrast&hide_border=true&border_radius=15&ring=ff4d6d&fire=ff8e53&currStreakLabel=ff4d6d"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amrita38&theme=highcontrast&hide_border=true&border_radius=15&ring=ff4d6d&fire=ff8e53&currStreakLabel=ff4d6d"/>
 
 </div>
 
@@ -87,7 +87,7 @@ Task management mini project
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=7"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=amrita38&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=7"/>
 
 </div>
 
@@ -97,7 +97,7 @@ Task management mini project
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amrita38&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
@@ -125,7 +125,7 @@ Task management mini project
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/amrita38">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
