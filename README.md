@@ -117,11 +117,11 @@ Task management mini project
 
 <div align="center">
 
-<a href="https://instagram.com/yourinstagram">
+<a href="https://www.instagram.com">
 <img src="https://img.shields.io/badge/Instagram-ff4d6d?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourlinkedin">
+<a href="https://linkedin.com/in/amrita-rani-149169409">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
