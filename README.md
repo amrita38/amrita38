@@ -1,16 +1,16 @@
-<!-- 🌸 AMRITA SHAW GITHUB PROFILE README -->
+<!-- 🌸 AMRITA SHAW — GITHUB PROFILE README -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=AMRITA%20SHAW&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:ff6b6b,50:ff8e53,100:ff4d4d"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&text=AMRITA%20SHAW&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:ff6b6b,50:ff8e53,100:ff4d4d"/>
 </p>
 
 <div align="center">
 
 # 👋 Hi, I'm Amrita Shaw
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2200&pause=700&color=FF6B6B&center=true&vCenter=true&width=900&lines=💻+CSE+Student;🌐+Frontend+Developer;🐍+Learning+Python+%26+Java;🚀+Building+Projects+Step+by+Step;⚡+Future+Software+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2200&pause=700&color=FF6B6B&center=true&vCenter=true&width=900&lines=💻+Computer+Science+Student;🌐+Frontend+Developer;🐍+Python+Learner;☕+Java+Learner;🚀+Building+Real-World+Projects;⚡+Aspiring+Software+Engineer"/>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=amrita38&label=PROFILE+VIEWS&color=ff4d4d&style=for-the-badge"/>
 
@@ -20,48 +20,96 @@
 
 # 🌸 ABOUT ME
 
-🎓 Computer Science Engineering Student  
-💻 Interested in Web Development and Programming  
-🌱 Currently learning Python, Java, HTML & CSS  
-🚀 Building projects to improve my coding skills  
-🎯 Goal: Become a successful Software Engineer
+🎓 Diploma in Computer Science Engineering
+💻 Interested in Web Development & Programming
+🐍 Learning Python and Java
+🌐 Building responsive and user-friendly websites
+🚀 Creating real-world projects to improve my development skills
+📚 Exploring Backend Development and Databases
+🎯 Aspiring Software Engineer
+
+> **"Learn • Build • Improve • Repeat 🚀"**
 
 ---
 
-# 🛠 TECH STACK
+# 🛠️ TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,vscode,github"/>
+### 💻 Languages & Web
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js"/>
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma"/>
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </div>
 
 ---
 
-# 📚 CURRENT LEARNING
+# 📚 CURRENTLY LEARNING
 
-✅ HTML & CSS  
-✅ Python Programming  
-✅ Java Basics  
-✅ Problem Solving  
-✅ Frontend Development
-
----
-
-# 🚀 PROJECTS
-
-### 🌐 Portfolio Website
-Responsive portfolio website using HTML & CSS
-
-### 🧮 Calculator Project
-Simple calculator made using Python
-
-### 📝 To-Do List
-Task management mini project
+```text
+🌐 Frontend Development
+🐍 Python Programming
+☕ Java
+⚙️ Node.js & Express.js
+🗄️ SQL & PostgreSQL
+🔐 Authentication
+🧠 Data Structures & Algorithms
+```
 
 ---
 
-# 📊 GITHUB STATUS
+# 🚀 FEATURED PROJECTS
+
+### 📚 StudyFlow — Student Productivity Platform
+
+A modern student productivity dashboard designed to help students manage study tasks, subjects, progress, and focused study sessions.
+
+**Tech:** HTML • CSS • JavaScript • LocalStorage
+
+---
+
+### 🍽️ Restaurant Menu Management System
+
+A restaurant menu management application where an admin can manage food items, prices, categories, and images while users can view the latest menu.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+### 🌐 Webslance — Website Builder Platform
+
+A website builder concept focused on creating and customizing websites through a modern web interface.
+
+**Tech:** Next.js • React • JavaScript • CSS
+
+---
+
+# 🧠 SKILLS I'M DEVELOPING
+
+<div align="center">
+
+| Area               | Skills                     |
+| ------------------ | -------------------------- |
+| 🌐 Frontend        | HTML, CSS, JavaScript      |
+| 🐍 Programming     | Python, Java               |
+| ⚙️ Backend         | Node.js, Express.js        |
+| 🗄️ Database       | SQL, PostgreSQL, Prisma    |
+| 🔧 Tools           | Git, GitHub, VS Code       |
+| 🧠 Problem Solving | DSA & Programming Practice |
+
+</div>
+
+---
+
+# 📊 GITHUB STATS
 
 <div align="center">
 
@@ -103,13 +151,15 @@ Task management mini project
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# 🎯 CURRENT GOALS
 
-🏅 Consistent Learner  
-🏅 Frontend Development Beginner  
-🏅 Exploring Programming Daily  
-🏅 Building Projects Regularly  
-🏅 Improving Communication Skills
+🚀 Build more real-world projects
+💻 Become stronger in Full-Stack Development
+🔐 Learn secure authentication
+🗄️ Improve database & SQL skills
+🧠 Strengthen DSA & problem solving
+🌱 Contribute to open-source projects
+📈 Maintain consistent GitHub activity
 
 ---
 
@@ -117,16 +167,20 @@ Task management mini project
 
 <div align="center">
 
-<a href="https://www.instagram.com">
-<img src="https://img.shields.io/badge/Instagram-ff4d6d?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://github.com/amrita38">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/amrita-rani-149169409">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/amrita38">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.instagram.com/amritaranishaw">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:amritashaw38@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -135,10 +189,11 @@ Task management mini project
 
 # 🌟 FUN FACTS
 
-🎵 I enjoy listening to music  
-💃 I love dancing  
-🌙 I enjoy coding at night  
-💡 Small progress every day matters
+🎵 Music keeps me motivated
+💃 I enjoy dancing
+💻 I love building projects
+🌱 I believe in learning step by step
+🚀 Small progress every day leads to big results
 
 ---
 
@@ -154,11 +209,11 @@ Task management mini project
 
 <div align="center">
 
-## ✨ THANKS FOR VISITING MY PROFILE ✨
+## ✨ THANK YOU FOR VISITING MY PROFILE ✨
 
 ### 🌸 Learn • Build • Grow • Repeat 🌸
 
-<br><br>
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff6b6b,100:ff8e53"/>
 
