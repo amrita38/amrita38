@@ -1,8 +1,7 @@
 <!-- 🌸 AMRITA SHAW — GITHUB PROFILE README -->
 
 <p align="center">
-  <img width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&height=280&text=AMRITA%20SHAW&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:ff6b6b,50:ff8e53,100:ff4d4d"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&text=AMRITA%20SHAW&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:ff6b6b,50:ff8e53,100:ff4d4d"/>
 </p>
 
 <div align="center">
@@ -21,19 +20,19 @@
 
 # 🌸 ABOUT ME
 
-🎓 Diploma in Computer Science Engineering  
+🎓 Diploma in Computer Science Engineering
 
-💻 Interested in Web Development & Programming  
+💻 Interested in Web Development & Programming
 
-🐍 Learning Python and Java  
+🐍 Learning Python and Java
 
-🌐 Building responsive and user-friendly websites  
+🌐 Building responsive and user-friendly websites
 
-🚀 Creating real-world projects to improve my development skills  
+🚀 Creating real-world projects to improve my development skills
 
-📚 Exploring Backend Development and Databases  
+📚 Exploring Backend Development and Databases
 
-🎯 Aspiring Software Engineer  
+🎯 Aspiring Software Engineer
 
 > **"Learn • Build • Improve • Repeat 🚀"**
 
